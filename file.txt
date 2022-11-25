@@ -21,4 +21,5 @@ Exemplos:
     TUPLAS(tuple) - tuplas também é uma variável que armazena valores, porém o que difere é que sua sintaxe é que se utiliza parenteses e os seus valores são imutáveis, ou seja, não podemos alterar um objeto tupla.
         Ex.: alunos = ('Maycon', 'Lais', 'Diego', 'Thamize', 'Denys')
 
-    DICIONÁRIO(dict) - 
+    DICIONÁRIO(dict) - Os dicionários são coleções de itens e seus elementos são armazenados de forma não ordenada, diferente da lista ordenada que guarda apenas um valolr por vez, o dicionário torna possível gerar estruturas mais complexas. 
+        Ex.: altura = {'Maycon': 1.75, 'Lais': 1.80, 'Diego': 1.92, 'Thamize': 2.05, 'Denys': 1.98}

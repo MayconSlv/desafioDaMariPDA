@@ -1,2 +1,0 @@
-aushusadhuafshdfljashdflua = 10
-print(aushusadhuafshdfljashdflua)
